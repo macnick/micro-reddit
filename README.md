@@ -1,24 +1,41 @@
-# README
+# BUILDING WITH ACTIVE RECORD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building a junior version of Reddit called micro-reddit.
 
-Things you may want to cover:
+## Data model
 
-* Ruby version
+- User table
 
-* System dependencies
+- Posts table
 
-* Configuration
+- Comments table
 
-* Database creation
+## License
 
-* Database initialization
+See [LICENSE.md](LICENSE.md) for details.
 
-* How to run the test suite
+## Getting started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get started with the app, clone the repo and then install the needed gems:
 
-* Deployment instructions
+```
+$ bundle install --without production
+```
 
-* ...
+Next, migrate the database:
+
+```
+$ rails db:migrate
+```
+
+You are ready to run the app in a local server:
+
+```
+$ rails server
+```
+
+## Authors
+
+- Daniel Addo
+
+- Nick Haralampopoulos
