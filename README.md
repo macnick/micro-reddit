@@ -1,4 +1,4 @@
-# BUILDING WITH ACTIVE RECORD
+# Building with active record
 
 Building a junior version of Reddit called micro-reddit.
 
