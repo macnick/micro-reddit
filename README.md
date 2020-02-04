@@ -1,3 +1,5 @@
+[![Is <macnick> available for hire?](http://hireable.me/<macnick>)](http://hireable.me/p/<macnick>)
+  
 # Building with active record
 
 Building a junior version of Reddit called micro-reddit.
