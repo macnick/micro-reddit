@@ -34,7 +34,7 @@ You are ready to run the app in a local server:
 $ rails server
 ```
 
-## Authors
+## 👤 Authors
 
 - Daniel Addo
 
