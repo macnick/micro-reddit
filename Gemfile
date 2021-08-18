@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
-gem 'webpacker', '~> 6.pre'
+gem 'webpacker', '~> 6.rc'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
