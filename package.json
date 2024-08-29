@@ -7,7 +7,7 @@
     "@rails/ujs": "^7.1.400",
     "@rails/webpacker": "5.4.4",
     "lodash": "^4.17.21",
-    "npm": "^10.8.2",
+    "npm": "^10.8.3",
     "serialize-javascript": "^6.0.2",
     "turbolinks": "^5.2.0",
     "webpack": "^5.94.0",
