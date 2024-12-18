@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^8.0.0",
-    "@rails/activestorage": "^8.0.0",
+    "@rails/activestorage": "^8.0.100",
     "@rails/ujs": "^7.1.501",
     "@rails/webpacker": "5.4.4",
     "lodash": "^4.17.21",
