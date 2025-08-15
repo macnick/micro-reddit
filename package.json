@@ -4,7 +4,7 @@
   "dependencies": {
     "@rails/actioncable": "^8.0.200",
     "@rails/activestorage": "^8.0.201",
-    "@rails/ujs": "^7.1.501",
+    "@rails/ujs": "^7.1.502",
     "@rails/webpacker": "5.4.4",
     "lodash": "^4.17.21",
     "npm": "^11.5.2",
