@@ -8,7 +8,7 @@
     "@rails/webpacker": "5.4.4",
     "lodash": "^4.17.23",
     "npm": "^11.10.1",
-    "serialize-javascript": "^7.0.2",
+    "serialize-javascript": "^7.0.3",
     "turbolinks": "^5.2.0",
     "webpack": "^5.105.2",
     "webpack-cli": "^6.0.1"
