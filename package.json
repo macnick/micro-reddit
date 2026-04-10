@@ -6,7 +6,7 @@
     "@rails/activestorage": "^8.1.201",
     "@rails/ujs": "^7.1.600",
     "@rails/webpacker": "5.4.4",
-    "lodash": "^4.17.23",
+    "lodash": "^4.18.1",
     "npm": "^11.10.1",
     "serialize-javascript": "^7.0.4",
     "turbolinks": "^5.2.0",
