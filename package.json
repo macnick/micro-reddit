@@ -10,7 +10,7 @@
     "npm": "^11.15.0",
     "serialize-javascript": "^7.0.5",
     "turbolinks": "^5.2.0",
-    "webpack": "^5.107.1",
+    "webpack": "^5.107.2",
     "webpack-cli": "^7.0.2"
   },
   "version": "0.1.0",
