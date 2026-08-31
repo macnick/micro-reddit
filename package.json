@@ -11,7 +11,7 @@
     "serialize-javascript": "^7.1.0",
     "turbolinks": "^5.2.0",
     "webpack": "^5.109.2",
-    "webpack-cli": "^7.2.2"
+    "webpack-cli": "^7.2.3"
   },
   "version": "0.1.0",
   "devDependencies": {
